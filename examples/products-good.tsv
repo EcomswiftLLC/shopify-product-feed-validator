@@ -1,0 +1,4 @@
+id	title	description	link	image_link	price	availability	brand	gtin	condition	sale_price
+SKU-1001	Merino Wool Crew Socks	Soft, breathable merino socks for everyday wear.	https://shop.example.com/products/merino-crew-socks	https://cdn.example.com/merino-socks.jpg	24.00 USD	in_stock	Example Co	4006381333931	new	19.99 USD
+SKU-1002	Canvas Tote Bag	A sturdy 14 oz canvas tote with reinforced handles.	https://shop.example.com/products/canvas-tote	https://cdn.example.com/canvas-tote.jpg	31.50 USD	in_stock	Example Co	0012345678905	new	
+SKU-1003	Ceramic Pour-Over Set	Dripper, carafe and two filters in matte glaze.	https://shop.example.com/products/pour-over-set	https://cdn.example.com/pour-over.jpg	58.00 USD	out_of_stock	Example Co	0012345678905	new	

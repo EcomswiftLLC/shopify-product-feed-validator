@@ -1,0 +1,31 @@
+{
+  "name": "shopify-product-feed-validator",
+  "version": "1.0.0",
+  "description": "Checks a Google Merchant Center product feed (TSV or CSV) for the errors that get Shopify products rejected, before you upload it.",
+  "main": "src/validate.js",
+  "bin": {
+    "spv": "bin/spv.js"
+  },
+  "scripts": {
+    "test": "node --test test/parse.test.js test/validate.test.js test/cli.test.js"
+  },
+  "keywords": [
+    "shopify",
+    "google-merchant-center",
+    "google-shopping",
+    "product-feed",
+    "feed-validator",
+    "ecommerce",
+    "gtin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Ecom Swift LLC <support@ecomswiftllc.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EcomswiftLLC/shopify-product-feed-validator.git"
+  },
+  "homepage": "https://github.com/EcomswiftLLC/shopify-product-feed-validator#readme"
+}

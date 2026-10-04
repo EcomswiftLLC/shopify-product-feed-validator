@@ -1,0 +1,4 @@
+id	title	description	link	image_link	price	availability	brand	gtin	condition	sale_price
+SKU-2001	CANVAS TOTE BAG	A sturdy canvas tote.	https://shop.example.com/products/canvas-tote	https://cdn.example.com/tote.jpg	31,50 USD	in stock	Example Co	4006381333932	new	
+SKU-2001	Merino Wool Socks	Socks.	http://shop.example.com/products/socks	cdn.example.com/socks.jpg	24.00 USD	in_stock		0012345678905	brand-new	30.00 USD
+SKU-2003	Ceramic Pour-Over Set		https://shop.example.com/products/pour-over	https://cdn.example.com/pour-over.jpg	58.00	preorder	Example Co	123	new	
